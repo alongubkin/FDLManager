@@ -28,7 +28,7 @@ Adding custom games
 
 FDLManager comes with support for CS:S and TF2, but you can easily add more games.
 
-For example, to add DOD:S, you would run the following command **on a vanilla server*:
+For example, to add DOD:S, you would run the following command **on a vanilla server**:
 
     [mono] FileLister.exe \
         --game dod \
